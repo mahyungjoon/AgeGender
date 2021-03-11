@@ -9,14 +9,11 @@
 - dlib
 - OpenCV 3.3+# AgeGender
 
-## Program-Design
-![cap1](https://user-images.githubusercontent.com/78770128/108956002-62df7500-76b2-11eb-9a01-d5241b8061b5.PNG)
-
 # Learning Data
 |Title|Contents|From|
 |:------:|:---:|:------:|
-|Data Name|ChatBot 'Bell'|My Brain (나의 머리)|
-|Basic Sources From|DeFault BeautyGan Data Source|https://github.com/Honlan/BeautyGAN (Honlan)|
+|Data Name|AgeGender|Github|
+|Basic Sources From|DeFault Age-Gender Data Source|https://github.com/kairess/age_gender_estimation (kairess)|
 
 # Author
 (gudwns4328@gmail.com)
