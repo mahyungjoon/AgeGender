@@ -1,11 +1,6 @@
 # Age Gender Estimation
 
-Click image to see [demo video](https://youtu.be/pcMDLAWWNFw)!  
-
-[![1.jpg](https://github.com/kairess/age_gender_estimation/raw/master/result/24.jpg)](https://youtu.be/pcMDLAWWNFw)
-
-- Used pretrained models from [https://github.com/GilLevi/AgeGenderDeepLearning](https://github.com/GilLevi/AgeGenderDeepLearning)
-
+![sdd](https://user-images.githubusercontent.com/78770128/110756277-5439b600-828d-11eb-97bd-67a5254eeaef.PNG)
 
 ## Dependencies
 - Python 3+
